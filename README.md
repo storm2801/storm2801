@@ -1,18 +1,18 @@
 # Héctor Manuel Gutiérrez Valdés
 
-**Técnico Ayudante en el Nodo DICA (UPR) & Desarrollador en Formación**
+**Assistant Technician at the DICA Node (UPR) & Developer in Training**
 
-> *Interés en la tecnología, la automatización y el desarrollo de software. Con experiencia práctica en infraestructura y servidores, orientado al aprendizaje continuo y la resolución de problemas.*
-
----
-
-### 🚀 Disponibilidad y Enfoque
-
-Colaboro en el nodo de la **DICA (Universidad de Pinar del Río)** en tareas técnicas de red, proxies y virtualización con Proxmox VE. **Disponible para nuevos proyectos, colaboraciones y retos profesionales**. Enfocado en la adaptación a nuevas herramientas, el trabajo constante y el aprendizaje autónomo.
+> *Interest in technology, automation, and software development. Hands-on experience in infrastructure and servers, focused on continuous learning and problem-solving.*
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🚀 Availability and Focus
+
+I collaborate at the **DICA node (University of Pinar del Río)** on technical networking, proxy, and virtualization tasks with Proxmox VE. **Available for new projects, collaborations, and professional challenges.** Focused on adapting to new tools, consistent work, and self-directed learning.
+
+---
+
+### 🛠️ Technologies and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -29,29 +29,29 @@ Colaboro en el nodo de la **DICA (Universidad de Pinar del Río)** en tareas té
 
 ---
 
-### 🎯 Enfoque técnico
+### 🎯 Technical Focus
 
-- **Aprendizaje constante:** Práctica regular en desarrollo web, scripting y lógica de programación.
-- **Resolución de problemas:** Iniciativa en el diagnóstico y solución de incidencias técnicas.
-- **Sistemas y desarrollo:** Interés en el desarrollo de software, la automatización y la optimización de procesos.
-
----
-
-### 📬 ¡Construyamos Juntos!
-
-Estoy buscando activamente:
-- Proyectos desafiantes de backend y desarrollo web
-- Oportunidades para optimizar sistemas existentes
-- Colaboraciones en la intersección de algoritmos y automatización
-
-- 📧 **Correo electrónico**: `hectormanuelgutierrez281@gmail.com`
+- **Continuous learning:** Regular practice in web development, scripting, and programming logic.
+- **Problem solving:** Initiative in diagnosing and resolving technical issues.
+- **Systems and development:** Interest in software development, automation, and process optimization.
 
 ---
 
-### 📊 Estadísticas y Algoritmos
+### 📬 Let's Build Together!
+
+I am actively looking for:
+- Challenging backend and web development projects
+- Opportunities to optimize existing systems
+- Collaborations at the intersection of algorithms and automation
+
+- 📧 **Email**: `hectormanuelgutierrez281@gmail.com`
+
+---
+
+### 📊 Stats and Algorithms
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=storm2801&show_icons=true&theme=radical&hide_border=true&custom_title=Estadisticas%20de%20GitHub" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=storm2801&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
